@@ -7,7 +7,8 @@ using namespace std;
 int main(){
 
 
-    cout << "hello world" << endl;
+    cout << "Hello world" << endl;
+    cout << "Ola mundo" << endl;
 
     return 0;
 }
