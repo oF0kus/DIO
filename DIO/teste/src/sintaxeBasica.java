@@ -38,9 +38,9 @@ public class sintaxeBasica {
     long algumLong = 9223372036854775807L;
     float algumFloat = 39.23f;
     double algumDouble = 39.232;
-    String algumString = "Ola mundo";
     char algumChar = 'a';
-    boolean algumBoolean = true;
+    String algumString = "Ola mundo";
+    boolean algumBoolean = false;
 
     }
 }
