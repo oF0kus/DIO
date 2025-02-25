@@ -40,7 +40,7 @@ public class sintaxeBasica {
     double algumDouble = 39.232;
     String algumString = "Ola mundo";
     char algumChar = 'a';
-    boolean algumBoolean = true;
+    boolean algumBoolean = false;
 
     }
 }
